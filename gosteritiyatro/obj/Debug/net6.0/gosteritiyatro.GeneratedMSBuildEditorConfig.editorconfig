@@ -1,0 +1,156 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = gosteritiyatro
+build_property.RootNamespace = gosteritiyatro
+build_property.ProjectDir = C:\Users\ASUS\source\repos\gosteritiyatro\gosteritiyatro\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ASUS\source\repos\gosteritiyatro\gosteritiyatro
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ASUS/source/repos/gosteritiyatro/gosteritiyatro/Views/Admin/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/gosteritiyatro/gosteritiyatro/Views/Admin/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/gosteritiyatro/gosteritiyatro/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/gosteritiyatro/gosteritiyatro/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/gosteritiyatro/gosteritiyatro/Views/Sahnes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FobmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/gosteritiyatro/gosteritiyatro/Views/Sahnes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FobmVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/gosteritiyatro/gosteritiyatro/Views/Sahnes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FobmVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/gosteritiyatro/gosteritiyatro/Views/Sahnes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FobmVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/gosteritiyatro/gosteritiyatro/Views/Sahnes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FobmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/gosteritiyatro/gosteritiyatro/Views/Sanatcilars/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuYXRjaWxhcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/gosteritiyatro/gosteritiyatro/Views/Sanatcilars/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuYXRjaWxhcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/gosteritiyatro/gosteritiyatro/Views/Sanatcilars/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuYXRjaWxhcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/gosteritiyatro/gosteritiyatro/Views/Sanatcilars/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuYXRjaWxhcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/gosteritiyatro/gosteritiyatro/Views/Sanatcilars/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuYXRjaWxhcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/gosteritiyatro/gosteritiyatro/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/gosteritiyatro/gosteritiyatro/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/gosteritiyatro/gosteritiyatro/Views/Startp/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhcnRwXGxvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/gosteritiyatro/gosteritiyatro/Views/Tiyatrolars/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGl5YXRyb2xhcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/gosteritiyatro/gosteritiyatro/Views/Tiyatrolars/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGl5YXRyb2xhcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/gosteritiyatro/gosteritiyatro/Views/Tiyatrolars/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGl5YXRyb2xhcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/gosteritiyatro/gosteritiyatro/Views/Tiyatrolars/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGl5YXRyb2xhcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/gosteritiyatro/gosteritiyatro/Views/Tiyatrolars/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGl5YXRyb2xhcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/gosteritiyatro/gosteritiyatro/Views/Yazarlars/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWWF6YXJsYXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/gosteritiyatro/gosteritiyatro/Views/Yazarlars/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWWF6YXJsYXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/gosteritiyatro/gosteritiyatro/Views/Yazarlars/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWWF6YXJsYXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/gosteritiyatro/gosteritiyatro/Views/Yazarlars/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWWF6YXJsYXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/gosteritiyatro/gosteritiyatro/Views/Yazarlars/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWWF6YXJsYXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/gosteritiyatro/gosteritiyatro/Views/Yonetmenlers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWW9uZXRtZW5sZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/gosteritiyatro/gosteritiyatro/Views/Yonetmenlers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWW9uZXRtZW5sZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/gosteritiyatro/gosteritiyatro/Views/Yonetmenlers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWW9uZXRtZW5sZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/gosteritiyatro/gosteritiyatro/Views/Yonetmenlers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWW9uZXRtZW5sZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/gosteritiyatro/gosteritiyatro/Views/Yonetmenlers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWW9uZXRtZW5sZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/gosteritiyatro/gosteritiyatro/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/gosteritiyatro/gosteritiyatro/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/gosteritiyatro/gosteritiyatro/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-o636emxf10
